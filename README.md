@@ -29,10 +29,4 @@ Exemplo: contador, formulário, botão de curtir, caixa de seleção (checkbox).
 
 Quando o método setState() é chamado dentro de um StatefulWidget, o Flutter informa que o estado do widget foi alterado. Em seguida, ele reconstrói aquele widget na tela utilizando os novos valores das variáveis, atualizando apenas a parte necessária da interface, sem recarregar todo o aplicativo.
 
-PARTE 2 – Prática Hands-on
 
-Foi realizado o tutorial oficial do Flutter (Step 3 – Flutter Getting Started), aplicando os seguintes conceitos:
-
-Construção da árvore de Widgets utilizando Scaffold, Row, Column e Container;
-Adição de interatividade com botões e gerenciamento de estado utilizando setState();
-Organização do código em componentes reutilizáveis.
